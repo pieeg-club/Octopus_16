@@ -24,7 +24,7 @@ In the process
 </p>
 
 ### Demo
-Yputuve [video](https://www.youtube.com/watch?v=OMOJHC0NXXE&t=2s)  
+YouTube [video](https://www.youtube.com/watch?v=OMOJHC0NXXE&t=2s)  
 
 ### How it works   
 16 Ch    
