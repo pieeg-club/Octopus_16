@@ -3,7 +3,7 @@ Brain-Computer interface, 16 EEG channels in one size
 In the process. All sources will be added soon       
 
 <p align="center">
-  <img src="https://github.com/pieeg-club/Octopus_16/blob/main/images/img_7.jfif" width="50%" height="50%" alt="generals view">
+  <img src="https://github.com/pieeg-club/Octopus_16/blob/main/images/img_7.jfif" width="100%" height="100%" alt="generals view">
 </p>
 
 
