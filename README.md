@@ -35,8 +35,3 @@ Data transfer - BLE
 
 Connect ESP-32C3 to the data transfer       
 
-Contact  
-pieeg.com  
-pieeg@pieeg.com   
-PiEEG Discord  
-
