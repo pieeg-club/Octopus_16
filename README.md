@@ -1,9 +1,6 @@
 # Brain_Stethoscope
 In the process. All sources will be added soon       
 
-<p align="center">
-  <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/image.webp" width="50%" height="50%" alt="generals view">
-</p>
 
 ### General view
 <p align="center">
