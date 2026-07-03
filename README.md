@@ -1,4 +1,5 @@
-# Brain_Stethoscope
+# Octopus 16 
+Brain-Computer interface, 16 EEG channels in one size      
 In the process. All sources will be added soon       
 
 <p align="center">
