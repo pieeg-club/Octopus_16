@@ -539,6 +539,5 @@ void loop() {
         has_pending_write = false;
     }
 
-    // Разгружаем ядро для выполнения внутренних фоновых процессов FreeRTOS/Arduino
     delay(10);
 }
