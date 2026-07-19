@@ -102,23 +102,10 @@ Connect ESP-32C6 to the data transfer
 
 ---
 
-## Repository layout
-
-​```
-Octopus_16/
-├── Sender_BLE5_Data_2M_16_esp32_c6/          # Main sensor firmware (XIAO ESP32-C6) + ADS131M08 driver
-├── Sender_..._esp32_s3_gamepad_ble_usb/      # ESP32-S3 firmware with USB/BLE HID gamepad output
-├── Receiver_BLE5_Dongle_2M_16ch_esp32_s3/    # BLE→USB dongle receiver firmware
-├── Test_esp32_c6/                            # ADC bring-up / chip-ID test sketch
-├── dongle_to_lsl/                            # Python serial → LSL bridge
-├── Neuro_Test_Bench/                         # Browser (Web Bluetooth) visualizer
-├── p70-2100045/                              # Enclosure CAD (IGS / STP)
-├── *.kicad_pcb / *.kicad_sch / *.kicad_pro   # KiCad hardware source
-└── *.pretty/                                 # Custom footprints (pogo pins, XO32 oscillator, PicoBlade)
-​```
-
-## Getting started
-pieeg-server 
+## Getting started  
+Will be update very soon  
+Youtube instructions   
+Manuals    
 
 ## Placement
 
