@@ -1,6 +1,5 @@
 # Octopus 16
-Open-Source Brain-Computer interface, 16 EEG channels
-In the process. All sources will be added soon
+
 <p align="center">
   <img src="https://github.com/pieeg-club/Octopus_16/blob/main/images/img_7.jfif" width="70%" height="70%" alt="generals view">
 </p>
