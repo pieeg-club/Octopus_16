@@ -14,6 +14,10 @@
   <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/1780357136533.jfif" width="25%" height="25%" alt="generals view">
 </p>
 
+Octopus included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
+<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
+
+
 ### Blinking test, Electrode in Fp position
 <p align="center">
   <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/ch1_before_after.png" width="50%" height="50%" alt="generals view">
