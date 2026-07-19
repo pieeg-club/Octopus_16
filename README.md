@@ -120,10 +120,7 @@ Octopus_16/
 ​```
 
 ## Getting started
-
-1. **Flash the sensor.** Open the ESP32-C6 sender firmware in Arduino IDE, select the **XIAO ESP32-C6** board, and upload (uses NimBLE and the included `ADS131M08` driver).
-2. **See a signal fast.** Open `Neuro_Test_Bench/Neuro_Test_Bench_PRO_16CH.html` in a Web-Bluetooth-capable browser and connect.
-3. **Into a research pipeline.** Flash the dongle firmware onto a second ESP32-S3, then run `python dongle_to_lsl/dongle_to_lsl.py` to publish an LSL EEG stream.
+pieeg-server 
 
 ## Placement
 
@@ -131,8 +128,3 @@ Place the 18-pin cluster over **Pz** (or your target site) with firm, even conta
 
 ---
 
-## License & attribution
-
-Released under the **GNU Affero General Public License v3 (AGPLv3)** — see [`LICENSE`](LICENSE).
-
-Octopus 16 is a derivative of the open **FreeEEG16-alpha2** hardware/firmware design; in accordance with the AGPLv3, the original license notices are retained.
