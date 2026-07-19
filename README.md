@@ -91,15 +91,6 @@ Connect ESP-32C6 to the data transfer
 | **Data packet** | 51-byte custom frame: `0xA0` header + 1-byte counter + 24 B (ADC1) + 24 B (ADC2) + `0xC0` footer |
 | **Throughput layout** | 16 channels × 3 bytes = 48 signal bytes per sample |
 
-### Host software / ecosystem
-
-| Component | Purpose |
-|---|---|
-| **`Neuro_Test_Bench_PRO_16CH.html`** | In-browser 16-channel visualizer & neurofeedback bench (Web Bluetooth — no install) |
-| **`Receiver_BLE5_Dongle_2M_16ch_esp32_s3`** | ESP32-S3 firmware turning a second board into a BLE→USB serial dongle; supports multiple simultaneous sensor nodes |
-| **`dongle_to_lsl.py`** | Bridges the dongle serial stream into **Lab Streaming Layer (LSL)** — one `EEG` (int32) stream per device |
-| **`Sender_..._gamepad_ble_usb`** | Firmware that maps EEG features to a HID gamepad for controlling games/apps with brain activity |
-
 ---
 
 ## Getting started  
