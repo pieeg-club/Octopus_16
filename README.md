@@ -1,6 +1,5 @@
 # Octopus 16
-Open-Source Brain-Computer interface, 16 EEG channels in one size
-Soon will be available for order; drop your email [here](https://octopus.pieeg.com/)
+Open-Source Brain-Computer interface, 16 EEG channels
 In the process. All sources will be added soon
 <p align="center">
   <img src="https://github.com/pieeg-club/Octopus_16/blob/main/images/img_7.jfif" width="70%" height="70%" alt="generals view">
@@ -125,6 +124,6 @@ pieeg-server
 ## Placement
 
 Place the 18-pin cluster over **Pz** (or your target site) with firm, even contact. Because reference and ground are inside the same cluster, no additional electrodes are needed. Good scalp contact on all pins is the single biggest factor in signal quality.
-
 ---
 
+Soon will be available for order; drop your email [here](https://octopus.pieeg.com/)  
