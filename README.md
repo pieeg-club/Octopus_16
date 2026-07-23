@@ -14,7 +14,7 @@
   <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/1780357136533.jfif" width="25%" height="25%" alt="generals view">
 </p>
 
-Octopus included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
+Octopus included in [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server), Docs is [here](https://docs.pieeg.com/)  
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
 
