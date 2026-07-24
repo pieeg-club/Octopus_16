@@ -6,6 +6,8 @@
 
 **Octopus 16** packs sixteen EEG electrodes, a common reference, and a ground into a single **26 mm circular PCB** — a coin-sized cluster of spring-loaded pogo pins. Because reference and ground live inside the same footprint as the active channels, **no distant electrodes are required**: the whole montage sits locally on the scalp and streams 16-channel data over **Bluetooth Low Energy 5** to a host, a USB dongle, or straight to the browser.
 
+3D printer Box in [Thingiverse](https://www.thingiverse.com/PiEEG/designs)  
+
 ### General view
 <p align="center">
   <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/1780357136663.jfif" width="25%" height="25%" alt="generals view">
