@@ -37,7 +37,7 @@ Octopus included in [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
   <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/Alph.jpeg" width="50%" height="50%" alt="generals view">
 </p>
 
-### Demo
+### Demo Python SDK  
 YouTube [video](https://www.youtube.com/watch?v=OMOJHC0NXXE&t=2s)
 
 #### Warnings
