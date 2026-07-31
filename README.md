@@ -112,4 +112,3 @@ Place the 18-pin cluster over **Pz** (or your target site) with firm, even conta
 
 ---
 
-Soon will be available for order; drop your email [here](https://octopus.pieeg.com/)  
