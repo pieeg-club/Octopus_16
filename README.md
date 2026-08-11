@@ -51,7 +51,7 @@ YouTube [video](https://www.youtube.com/watch?v=OMOJHC0NXXE&t=2s)
 16 Ch
 Data transfer - BLE
 250 samples per second
-Connect ESP-32C6 to the data transfer
+Connect the ESP-32C6 to the data transfer
 
 ---
 
@@ -111,4 +111,7 @@ Connect ESP-32C6 to the data transfer
 Place the 18-pin cluster over **Pz** (or your target site) with firm, even contact. Because reference and ground are inside the same cluster, no additional electrodes are needed. Good scalp contact on all pins is the single biggest factor in signal quality.
 
 ---
+
+Thank you to [Dmitry](https://github.com/dmitry-sukhoruchkin) to make live in this project    
+
 
