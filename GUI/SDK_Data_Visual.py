@@ -32,7 +32,7 @@ from matplotlib.patches import Circle, Polygon
 
 SERVICE_UUID        = "4fafc201-1fb5-459e-8fcc-c5c9c331914b"
 DATA_CHAR_UUID      = "beb5483e-36e1-4688-b7f5-ea07361b26a8"
-DEVICE_NAME         = "bioron_16"
+DEVICE_NAME         = "bioron_16" # "Octopus-16-4BAD"
 PACKET_SIZE         = 51
 HEADER_BYTE         = 0xA0
 FOOTER_BYTE         = 0xC0
