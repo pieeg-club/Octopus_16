@@ -7,7 +7,7 @@
 
 On the PiEEG [Shop](https://www.pieeg.com/hardware)  
 How to start [YouTube Demo](https://www.youtube.com/watch?v=Yz7GLRGZNk8)  
-3D model for [Thingiverse](https://www.thingiverse.com/thing:7386761)
+3D model in [Thingiverse](https://www.thingiverse.com/thing:7386761)
 
 <a href="https://www.youtube.com/watch?v=Yz7GLRGZNk8">
   <img width="1343" height="767" alt="YouTube Demo" src="https://github.com/user-attachments/assets/cad42b61-e1fa-49ef-ae97-8721769fb8e9" />
